@@ -3,7 +3,7 @@ January Notes - Aaron Racicot
 =============================
 
 * Testing a direct link
-__http://www.cnn.com
+http://www.cnn.com
 
 1) Some numbered lists
 2) and some more
