@@ -1,13 +1,4 @@
-=============================
-January Notes - Aaron Racicot
-=============================
-
 .. contents::
-
-
-[TOC]
-
-test-link-name_
 
 ========
 01/01/11
@@ -24,43 +15,6 @@ http://www.cnn.com
 + sdfksdj
 + lksjdjf
 
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
-* tewerw
 
 .. raw:: pdf
 
@@ -78,7 +32,6 @@ Testing another day
 ========
 01/03/11
 ========
-.. _test-link-name:
 
 And another day
 
