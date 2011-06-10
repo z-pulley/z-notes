@@ -4,6 +4,9 @@ January Notes - Aaron Racicot
 
 .. contents::
 
+
+[TOC]
+
 ========
 01/01/11
 ========
