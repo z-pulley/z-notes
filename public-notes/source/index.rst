@@ -1,6 +1,6 @@
 .. Z-Pulley Notes master file
 
-Z-Pulley Notes's
+Z-Pulley Notes
 ==========================================
 
 Contents:

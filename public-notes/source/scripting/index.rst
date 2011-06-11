@@ -1,6 +1,6 @@
 .. Z-Pulley Notes 2011
 
-Scripting Notes's
+Scripting Notes
 ==========================================
 
 Contents:
