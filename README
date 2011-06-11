@@ -1,1 +1,23 @@
-Z-Pulley internal scripts and projects repo
+Z-Pulley internal scripts and projects repo:
+
+==========================
+Notes (public and private)
+==========================
+
+private-notes::
+* Sphinx based notes
+* Sorted by year/month/day
+* rst format and output into build dir for sphinx
+* Supports output to pdf via rst2pdf
+
+public-notes::
+* Sphinx based notes
+* Sorted by Topic
+* rst format and output into build dir for sphinx
+* The sphinx output is into the gh-pages branch
+* Access is to http://z-pulley.github.com/z-pulley/
+* Supports output to pdf via rst2pdf
+
+Both are built with ``make html`` in the root
+
+
