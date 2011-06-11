@@ -6,12 +6,6 @@ Scripting Notes's
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   bash
-
-Indices and tables
-==================
-
-* :ref:`search`
-
+   bash/index

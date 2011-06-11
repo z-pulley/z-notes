@@ -9,9 +9,3 @@ Contents:
    :maxdepth: 1
 
    scripting/index
-
-Indices and tables
-==================
-
-* :ref:`search`
-
