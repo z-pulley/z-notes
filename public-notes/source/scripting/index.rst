@@ -1,6 +1,6 @@
 .. Z-Pulley Notes 2011
 
-Z-Pulley Notes's 2011
+Scripting Notes's
 ==========================================
 
 Contents:
@@ -8,12 +8,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   january
+   bash
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

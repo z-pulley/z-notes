@@ -1,6 +1,6 @@
 .. Z-Pulley Notes master file
 
-Welcome to Z-Pulley Notes's documentation!
+Z-Pulley Notes's
 ==========================================
 
 Contents:
@@ -8,12 +8,10 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
-   2011/index
+   scripting/index
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
