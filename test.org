@@ -9,9 +9,7 @@ Some more test text...
 
 This is a code block
 
-<pre>
     def 1: 
         return foo
-</pre>
 
 and the end to the code block
