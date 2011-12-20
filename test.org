@@ -1,0 +1,18 @@
+* This is a test folder
+-----
+Test1 
+-----
+** Sub 1
+*somemarkup* that should be showing in markdown
+
+* And another test folder
+=====
+test2
+=====
+
+This is a code block::
+
+    def 1
+    func2(1)
+
+and the end to the code block
