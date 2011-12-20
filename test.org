@@ -9,9 +9,9 @@ Some more test text...
 
 This is a code block
 
-```
-    def 1
-    func2(1)
-```
+<pre>
+    def 1: 
+        return foo
+</pre>
 
 and the end to the code block
