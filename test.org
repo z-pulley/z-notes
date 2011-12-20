@@ -1,16 +1,17 @@
 * This is a test folder
-Test1 
------
+Some test text
+
 ** Sub 1
 *somemarkup* that should be showing in markdown
 
 * And another test folder
-test2
-=====
+Some more test text...
 
 This is a code block
 
+```
     def 1
     func2(1)
+```
 
 and the end to the code block
